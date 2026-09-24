@@ -1,0 +1,33 @@
+[33mcommit 3240193a851d9174effc0cd6d433ffef99f6a98a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: b012aa4 2f74573
+Author: AlexK <kimsskytv@gmail.com>
+Date:   Thu Sep 24 15:55:21 2026 +0500
+
+    Merge branch 'conflict-test'
+    
+    # Conflicts:
+    #       push_me.py
+
+[33mcommit b012aa461125f250f6f8e3f357644f3a63fcb46f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlexK <kimsskytv@gmail.com>
+Date:   Thu Sep 24 15:52:49 2026 +0500
+
+    Hello_main_string_commit
+
+[33mcommit 6f3bff24469e936de7ad0ceeecf2834807a2c15a[m
+Author: AlexK <kimsskytv@gmail.com>
+Date:   Thu Sep 24 15:29:11 2026 +0500
+
+    error commit_2
+
+[33mcommit 2f74573ced1ac64b377e6dedc91264b88e769fa4[m[33m ([m[1;31morigin/conflict-test[m[33m, [m[1;32mconflict-test[m[33m)[m
+Author: AlexK <kimsskytv@gmail.com>
+Date:   Thu Sep 24 15:28:22 2026 +0500
+
+    error commit
+
+[33mcommit 9fccb0d82b3ffdc35d346a63783e0d4503b13d3b[m
+Author: AlexK <kimsskytv@gmail.com>
+Date:   Thu Sep 24 15:23:16 2026 +0500
+
+    my first commit
