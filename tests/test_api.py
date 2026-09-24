@@ -1,1 +1,1 @@
-assert response.status_code == 999
+assert response.status_code == 200
